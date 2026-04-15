@@ -24,4 +24,5 @@ Our project focuses on the design and development of a Digital Library Managemen
 - Plan/
 - Risk/
 - Final-Report/
+when the project is on progress we will add all the required structres
 
